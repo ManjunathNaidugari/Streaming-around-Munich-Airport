@@ -1,0 +1,5 @@
+Airline;Flightnumber;AircraftType;Destination;DepartureGate;NumberOfPassengers;Schengen;Duration;Fuel;Year;Month;Date;Hour;Minutes
+Groundhansa;GH2012;A320;BER;K10;190;TRUE;70;291667;2021;12;15;8;15
+Groundhansa;GH110;B747;SIN;H41;364;FALSE;700;8381578;2021;12;15;12;20
+BrexitAirways;BA9110;A320;GLA;L22;190;FALSE;140;583333;2021;12;15;16;
+Pinguwings;PA2352;A321;BCN;H22;230;TRUE;120;605264;2021;12;15;8;0;

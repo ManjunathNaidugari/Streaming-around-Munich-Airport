@@ -1,0 +1,6 @@
+
+public enum Airline {
+
+    AIRALPINA, BREXITAIRWAYS, GROUNDHANSA, PINGUWINGS
+
+}
